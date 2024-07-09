@@ -13,7 +13,7 @@ _Congratulations friend, you've completed this course!_
 <img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
 
-hello 🤪🥟🦾🤖🤪🥟🥟
+hello 🤪🥟🦾🤖🤪🥟🥟 I'm the living epitome. Cant lie bruddah!
 
 **Seeing your _action_ in action**: The status of each workflow run that's triggered is shown in the pull request before it's merged: look for **All checks have passed** when you try out the steps below. You can also see a list of all the workflows that are running, or have finished running, in the **Actions** tab of your repository. From there, you can click on each workflow run to view more details and access log files.
 
